@@ -1,3 +1,1 @@
 # TELA DE CADASTRO E LOGIN COM ANIMAÇÃO
-
-HTML, CSS e JavaScript.
